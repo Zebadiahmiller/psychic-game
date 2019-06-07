@@ -1,0 +1,15 @@
+body{
+    background-image:repeating-linear-gradient(black,purple,red);
+
+    font-size: 45px;
+    color:teal;
+    text-align: center
+}
+#game{
+    color:aqua;
+}
+
+
+html{
+    height:100%
+}
